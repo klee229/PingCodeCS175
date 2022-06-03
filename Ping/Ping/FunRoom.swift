@@ -28,7 +28,7 @@ struct FunRoom: View {
                 
                 Button{
                     showView.toggle()
-                    AudioServicesPlaySystemSound(1025)
+                    AudioServicesPlaySystemSound(1003)
                 } label:{
                     ZStack{
                         Circle()
