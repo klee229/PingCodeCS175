@@ -31,7 +31,7 @@ struct VideoList {
         
         Video(imageName: "IceBreaker",
               title: "Ice Breakers",
-              description: "Insert Guide",
+              description: "Test ",
               viewCount: 16289,
               uploadDate: "May 19, 2017",
               url: URL(string: "https://www.youtube.com/watch?v=SZMg5JyL0fc")!),
