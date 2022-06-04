@@ -46,7 +46,7 @@ struct FunRoom: View {
                 Menu {
                     
                  
-                    Link(destination: URL(string: "https://www.youtube.com/watch?v=dQw4w9WgXcQ")!, label: {
+                    Link(destination: URL(string: "https://www.google.com")!, label: {
                         Label(
                             title: { Text("Add")},
                             icon: { Image(systemName: "plus")}
